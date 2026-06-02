@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stages>
+  <stage>
+    <id>1</id>
+    <sujet>Plateforme web de gestion des stagiaires</sujet>
+    <stagiaire_id>1</stagiaire_id>
+    <encadrant_id>1</encadrant_id>
+    <date_debut>2026-03-01</date_debut>
+    <date_fin>2026-08-31</date_fin>
+    <statut>en_cours</statut>
+    <description>Conception et développement complet avec PHP/XML/AJAX</description>
+  </stage>
+  <stage>
+    <id>2</id>
+    <sujet>Campagne marketing Q3</sujet>
+    <stagiaire_id>2</stagiaire_id>
+    <encadrant_id>2</encadrant_id>
+    <date_debut>2026-04-01</date_debut>
+    <date_fin>2026-09-30</date_fin>
+    <statut>en_cours</statut>
+    <description>Lancement nouvelle gamme produit</description>
+  </stage>
+  <stage>
+    <id>3</id>
+    <sujet>Gestion d'une entreprise (travail du PDG)</sujet>
+    <stagiaire_id>4</stagiaire_id>
+    <encadrant_id>2</encadrant_id>
+    <date_debut>2026-05-30</date_debut>
+    <date_fin>2026-07-30</date_fin>
+    <statut>en_cours</statut>
+    <description>Apprendre le travail du PDG pour le remplacer </description>
+  </stage>
+</stages>

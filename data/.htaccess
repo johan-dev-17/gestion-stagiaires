@@ -1,0 +1,3 @@
+# Permettre l'accès aux PHP, refuser tout le reste
+Order Deny,Allow
+Deny from all

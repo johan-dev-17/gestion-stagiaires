@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departements>
+  <departement>
+    <id>1</id>
+    <nom>Informatique</nom>
+    <responsable>Mohamed Ali</responsable>
+    <description>Développement logiciel et infrastructure IT</description>
+  </departement>
+  <departement>
+    <id>2</id>
+    <nom>Marketing</nom>
+    <responsable>Sarah Ben Salah</responsable>
+    <description>Communication, marketing digital et image de marque</description>
+  </departement>
+  <departement>
+    <id>3</id>
+    <nom>Ressources Humaines</nom>
+    <responsable>Karim Trabelsi</responsable>
+    <description>Recrutement, formation et gestion du personnel</description>
+  </departement>
+  <departement>
+    <id>4</id>
+    <nom>Finance</nom>
+    <responsable>Leila Mansour</responsable>
+    <description>Comptabilité, contrôle de gestion et trésorerie</description>
+  </departement>
+</departements>

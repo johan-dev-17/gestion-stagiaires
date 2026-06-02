@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<encadrants>
+  <encadrant>
+    <id>1</id>
+    <nom>Hammami</nom>
+    <prenom>Ahmed</prenom>
+    <email>a.hammami@societe.com</email>
+    <telephone>0701112233</telephone>
+    <poste>Senior Developer</poste>
+    <departement>Informatique</departement>
+  </encadrant>
+  <encadrant>
+    <id>2</id>
+    <nom>Maïramou</nom>
+    <prenom>Nadia</prenom>
+    <email>n.gharbi@societe.com</email>
+    <telephone>0702223344</telephone>
+    <poste>Marketing Manager</poste>
+    <departement>Marketing</departement>
+  </encadrant>
+</encadrants>

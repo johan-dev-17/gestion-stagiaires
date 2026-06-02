@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <id>1</id>
+    <username>admin</username>
+    <password>$2y$10$khDl1uwPpcZ3Ma3rJUu0..dsV8iNzdzed2Ryt9CDEokIhby9.q0kG</password>
+    <role>admin</role>
+    <nom>Administrateur</nom>
+  </user>
+  <user>
+    <id>2</id>
+    <username>rh</username>
+    <password>$2y$10$dr389ixfDPerjmI5YsFwLOJvSGrYpJhKyhpDyW//EcD/saq774g/2</password>
+    <role>rh</role>
+    <nom>Service RH</nom>
+  </user>
+  <user>
+    <id>3</id>
+    <username>encadrant</username>
+    <password>$2y$10$NWUQZugZxBrWxtNF5oq7PuMt0I2UVsTALlEeu/CGucS46X.pSH5DG</password>
+    <role>encadrant</role>
+    <nom>Encadrant </nom>
+  </user>
+</users>

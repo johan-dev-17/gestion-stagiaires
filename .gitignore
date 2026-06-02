@@ -1,0 +1,18 @@
+# Config sensible (credentials MySQL)
+config/
+
+# Fichiers exports générés automatiquement
+exports/
+
+# Logs
+*.log
+/logs/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.swp
+
+# PHP cache
+*.cache
+/cache/

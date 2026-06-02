@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stagiaires>
+  <stagiaire>
+    <id>1</id>
+    <nom>Dupont</nom>
+    <prenom>Marie</prenom>
+    <email>marie.dupont@email.com</email>
+    <telephone>0612345678</telephone>
+    <ecole>ENSI</ecole>
+    <formation>Master Génie Logiciel</formation>
+    <departement>Informatique</departement>
+    <statut>en_cours</statut>
+    <date_debut>2026-03-01</date_debut>
+    <date_fin>2026-08-31</date_fin>
+    <sujet>Développement d'une plateforme web de gestion</sujet>
+    <date_creation>2026-02-15</date_creation>
+  </stagiaire>
+  <stagiaire>
+    <id>2</id>
+    <nom>Martin</nom>
+    <prenom>Lucas</prenom>
+    <email>lucas.martin@email.com</email>
+    <telephone>0623456789</telephone>
+    <ecole>ESPRIT</ecole>
+    <formation>Ingénierie Marketing</formation>
+    <departement>Marketing</departement>
+    <statut>en_cours</statut>
+    <date_debut>2026-04-01</date_debut>
+    <date_fin>2026-09-30</date_fin>
+    <sujet>Stratégie de communication digitale</sujet>
+    <date_creation>2026-03-10</date_creation>
+  </stagiaire>
+  <stagiaire>
+    <id>3</id>
+    <nom>Bernard</nom>
+    <prenom>Sofia</prenom>
+    <email>sofia.bernard@email.com</email>
+    <telephone>0634567890</telephone>
+    <ecole>IHEC</ecole>
+    <formation>Master Finance</formation>
+    <departement>Finance</departement>
+    <statut>termine</statut>
+    <date_debut>2025-09-01</date_debut>
+    <date_fin>2026-02-28</date_fin>
+    <sujet>Analyse financière et tableaux de bord</sujet>
+    <date_creation>2025-08-20</date_creation>
+  </stagiaire>
+  <stagiaire>
+    <id>4</id>
+    <nom>BISSEMOU</nom>
+    <prenom>CHARMANT</prenom>
+    <email>charlesbissemou@gmail.com</email>
+    <telephone>697072836</telephone>
+    <ecole>KEYCE</ecole>
+    <formation>INFORMATIQUE</formation>
+    <departement>Informatique</departement>
+    <statut>en_cours</statut>
+    <date_debut>2026-05-30</date_debut>
+    <date_fin>2026-07-30</date_fin>
+    <sujet>Gestion d'une entreprise (travail du PDG)</sujet>
+    <date_creation>2026-05-30</date_creation>
+  </stagiaire>
+  <stagiaire>
+    <id>5</id>
+    <nom>NDJOM</nom>
+    <prenom>JOHAN</prenom>
+    <email>johannguidjol@icloud.com</email>
+    <telephone>658199102</telephone>
+    <ecole>KEYCE I&amp;IA</ecole>
+    <formation>IA&amp;BD</formation>
+    <departement>Informatique</departement>
+    <statut>en_cours</statut>
+    <date_debut>2026-01-01</date_debut>
+    <date_fin>2027-01-01</date_fin>
+    <sujet/>
+    <date_creation>2026-06-02</date_creation>
+  </stagiaire>
+  <stagiaire>
+    <id>6</id>
+    <nom>Dupont</nom>
+    <prenom>Marie</prenom>
+    <email>marie.dupont@email.com</email>
+    <telephone>0612345678</telephone>
+    <ecole>ENSI</ecole>
+    <formation>Master Génie Logiciel</formation>
+    <departement>Informatique</departement>
+    <statut>en_cours</statut>
+    <date_debut>2026-03-01</date_debut>
+    <date_fin>2026-08-31</date_fin>
+    <sujet>Développement d'une plateforme web de gestion</sujet>
+    <date_creation>2026-02-15</date_creation>
+  </stagiaire>
+  <stagiaire>
+    <id>7</id>
+    <nom>Martin</nom>
+    <prenom>Lucas</prenom>
+    <email>lucas.martin@email.com</email>
+    <telephone>0623456789</telephone>
+    <ecole>ESPRIT</ecole>
+    <formation>Ingénierie Marketing</formation>
+    <departement>Marketing</departement>
+    <statut>en_cours</statut>
+    <date_debut>2026-04-01</date_debut>
+    <date_fin>2026-09-30</date_fin>
+    <sujet>Stratégie de communication digitale</sujet>
+    <date_creation>2026-03-10</date_creation>
+  </stagiaire>
+  <stagiaire>
+    <id>8</id>
+    <nom>Bernard</nom>
+    <prenom>Sofia</prenom>
+    <email>sofia.bernard@email.com</email>
+    <telephone>0634567890</telephone>
+    <ecole>IHEC</ecole>
+    <formation>Master Finance</formation>
+    <departement>Finance</departement>
+    <statut>termine</statut>
+    <date_debut>2025-09-01</date_debut>
+    <date_fin>2026-02-28</date_fin>
+    <sujet>Analyse financière et tableaux de bord</sujet>
+    <date_creation>2025-08-20</date_creation>
+  </stagiaire>
+  <stagiaire>
+    <id>9</id>
+    <nom>BISSEMOU</nom>
+    <prenom>CHARMANT</prenom>
+    <email>charlesbissemou@gmail.com</email>
+    <telephone>697072836</telephone>
+    <ecole>KEYCE</ecole>
+    <formation>INFORMATIQUE</formation>
+    <departement>Informatique</departement>
+    <statut>en_cours</statut>
+    <date_debut>2026-05-30</date_debut>
+    <date_fin>2026-07-30</date_fin>
+    <sujet>Gestion d'une entreprise (travail du PDG)</sujet>
+    <date_creation>2026-05-30</date_creation>
+  </stagiaire>
+  <stagiaire>
+    <id>10</id>
+    <nom>NDJOM</nom>
+    <prenom>JOHAN</prenom>
+    <email>johannguidjol@icloud.com</email>
+    <telephone>658199102</telephone>
+    <ecole>KEYCE I&amp;IA</ecole>
+    <formation>IA&amp;BD</formation>
+    <departement>Informatique</departement>
+    <statut>en_cours</statut>
+    <date_debut>2026-01-01</date_debut>
+    <date_fin>2027-01-01</date_fin>
+    <sujet/>
+    <date_creation>2026-06-02</date_creation>
+  </stagiaire>
+  <stagiaire>
+    <id>11</id>
+    <nom>TEST</nom>
+    <prenom>Hybride</prenom>
+    <email>test@hybride.com</email>
+    <telephone>0000000000</telephone>
+    <ecole>TEST</ecole>
+    <formation>TEST</formation>
+    <departement>Informatique</departement>
+    <statut>en_cours</statut>
+    <date_debut>2026-06-02</date_debut>
+    <date_fin>2026-07-02</date_fin>
+    <sujet>Test système hybride</sujet>
+    <date_creation>2026-06-02</date_creation>
+  </stagiaire>
+</stagiaires>
