@@ -165,4 +165,19 @@
     <sujet>Test système hybride</sujet>
     <date_creation>2026-06-02</date_creation>
   </stagiaire>
+  <stagiaire>
+    <id>1</id>
+    <nom>NGUIDJOL</nom>
+    <prenom>JETFACE</prenom>
+    <email>johannguidjol@email.com</email>
+    <telephone>0612345678</telephone>
+    <ecole>ENSI</ecole>
+    <formation>Master Génie Logiciel</formation>
+    <departement>Informatique</departement>
+    <statut>en_cours</statut>
+    <date_debut>2026-03-01</date_debut>
+    <date_fin>2026-08-31</date_fin>
+    <sujet>Développement d'une plateforme web de gestion</sujet>
+    <date_creation>2026-02-15</date_creation>
+  </stagiaire>
 </stagiaires>
