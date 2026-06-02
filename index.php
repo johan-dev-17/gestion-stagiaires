@@ -1,4 +1,5 @@
 <?php
+//* index.php - Page de connexion
 require_once __DIR__ . '/includes/auth.php';
 ensureUsersFile();
 $handler = new XMLHandler('users.xml', 'users', 'user');

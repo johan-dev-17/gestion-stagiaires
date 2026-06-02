@@ -91,3 +91,4 @@ gestion-stagiaires/
 - 📤 Export XML des données
 - 📝 Évaluations de fin de stage
 - 🎨 Interface moderne, responsive, sans dépendance lourde
+"# gestion-stagiaires"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/johan-dev-17/gestion-stagiaires.git git push -u origin main

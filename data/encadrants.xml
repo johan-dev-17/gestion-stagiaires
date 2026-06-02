@@ -18,4 +18,13 @@
     <poste>Marketing Manager</poste>
     <departement>Marketing</departement>
   </encadrant>
+  <encadrant>
+    <id>3</id>
+    <nom>johan</nom>
+    <prenom>jetface</prenom>
+    <email>johannguidjol@email.com</email>
+    <telephone>7678655857</telephone>
+    <poste>Marketing Manager</poste>
+    <departement>Marketing</departement>
+  </encadrant>
 </encadrants>
